@@ -16,4 +16,4 @@
   - Jest
 ## Ссылки
   [Локальный сервер](https://github.com/mikhama/async-race-api) - без него приложение работать не будет<br>
-  [Деплой](https://quaqvagit.github.io/css-selectors/)
+  [Деплой](https://quaqvagit.github.io/async-race/)
